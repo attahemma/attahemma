@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project that will help boost my portfolio
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web and Desktop apps & development I would like to answer.
-- 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> <a href="https://twitter.com/geekycoder_ng">
+- 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> 
+<br/>
+<a href="https://twitter.com/geekycoder_ng">
   <img align="left" alt="
   's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/attahemma">
   <img align="left" alt="Guru's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: Good mobile app design is important in establishing a good brand.
 
