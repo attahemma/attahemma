@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project that will help boost my portfolio
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web and Desktop apps & development I would like to answer.
+<!--- 😄 Pronouns: ...-->
+- ⚡ Fun fact: Good mobile app design is important in establishing a good brand.
 - 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> 
 <br/>
 <a href="https://twitter.com/geekycoder_ng">
@@ -24,8 +26,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Guru's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-<!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: Good mobile app design is important in establishing a good brand.
 
 
 **Languages and Tools:**  
@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attahemma&layout=compact" />
+</div>
+
+![Profile views](https://gpvc.arturio.dev/attahemma) 
 
 <div align="center">
 
