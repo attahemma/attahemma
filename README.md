@@ -6,13 +6,11 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile Applications with Java
-- 🌱 I’m currently learning Kotlin, Flutter and Dart
+- 🔭 I’m currently working on Mobile Applications with Java,  Kotlin, Flutter and Dart
 - 👯 I’m looking to collaborate on any project that will help boost my portfolio
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web and Desktop apps & development I would like to answer.
 <!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: Good mobile app design is important in establishing a good brand.
+- ⚡ Fun fact: Architecture is the foundation to a great software design.
 - 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> 
 <br/>
 <a href="https://twitter.com/geekycoder_ng">
@@ -44,6 +42,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Share some love with Starring repositories and following me on twitter 
+### Share some love with Starring repositories and following me on github 
 
 </div>
