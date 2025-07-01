@@ -13,7 +13,7 @@ Here are some ideas about me to get you started:
 <br/>
 <a href="https://twitter.com/geekycoder_ng">
   <img align="left" alt="
-  's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: yellow;"/>
 </a>
 <a href="https://www.linkedin.com/in/emmanuel-attah-b7527a165/">
   <img align="left" alt="Guru's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
