@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-## Nice meeting you, I'm [Attah Emmanuel Egbunu!]
+## Nice meeting you, I'm Attah Emmanuel Egbunu!
 <!--
 **attahemma/attahemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Here are some ideas about me to get you started:
 
-- 🔭 I’m currently working on Mobile Applications with Java,  Kotlin and Swift
-- 👯 I’m looking to collaborate on any project that will help boost my portfolio
-- 💬 Ask me about Web and Desktop apps & development because I love to talk about them.
+- 🔭 I’m actively developing and architecting enterprise systems
 <!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: Architecture is the foundation to a great software design.
+- ⚡ Fun fact: The term "bug" to describe a glitch in a computer system originated from a moth being found stuck in a relay of the Harvard Mark II computer in 1947
 - 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> 
 <br/>
 <a href="https://twitter.com/geekycoder_ng">
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 
-**Languages and Tools:**  
+**Languages and Tools I Use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -37,8 +35,6 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attahemma&layout=compact" />
 </div>
-
-![Profile views](https://gpvc.arturio.dev/attahemma) 
 
 <div align="center">
 
