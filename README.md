@@ -6,7 +6,7 @@
 -->
 Here are some ideas about me to get you started:
 
-- 🔭 I’m actively developing and architecting enterprise systems
+- 🔭 I’m actively architecting, developing and deploying enterprise systems
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: The term "bug" used to describe a glitch in a computer system originated from a moth being found stuck in a relay of the Harvard Mark II computer in 1947
 - 📫 How to reach me: phone: <a href="tel:">+2348100854746</a>  & email: <a href="mailto:">attahmanuel.e@gmail.com</a> 
@@ -72,6 +72,6 @@ Here are some ideas about me to get you started:
 
 <div align="center">
 
-### Share some love with Starring repositories and following me on github 
+### Share some love by Starring repositories and following me on github 
 
 </div>
