@@ -52,7 +52,7 @@ Here are some ideas about me to get you started:
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attahemma&layout=compact&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=attahemma&layout=compact&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attahemma&theme=radical&layout=compact" />
 </div>
 
